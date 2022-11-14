@@ -1,17 +1,16 @@
-# Мой сайт портфолио "baranovskyi_website"
+# My portfolio site is "baranovskyi_website"
 
-# Добавить с новой версией
+# Add with new version
 
-- Кнопку "Download CV"
-- Подключить к Google Analytics
+- "Download CV" button
+- Connect to Google Analytics
 
-# Возможные изменения
+# Possible changes
 
-- Смена бэкграунда
-- Добавление кнопки для Gmail
+- Change background
+- Adding a button for Gmail
 
-# Источники
+# Sources
 
-- Создано на основе Hugo : https://gohugo.io/templates/
-- Тема : Grayscale
-
+- Based on Hugo : https://gohugo.io/templates/
+- Theme : Grayscale
