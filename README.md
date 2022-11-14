@@ -1,4 +1,4 @@
-# My portfolio site is "baranovskyi_website"
+# My portfolio website is "baranovskyi_website"
 
 # Add with new version
 
